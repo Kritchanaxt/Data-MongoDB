@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6729d1f0209ab5d2a55871e0"
+  },
+  "name": "wave",
+  "age": 20,
+  "email": "wave@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6729d24e209ab5d2a55871e1"
+  },
+  "name": "JoJo",
+  "age": 23,
+  "email": "jojo@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "6729d5eabef49d198bb16f4b"
+  },
+  "name": "Somchai",
+  "age": 40,
+  "email": "somchai2gmail.com",
+  "department": "โฆษณา"
+},
+{
+  "_id": {
+    "$oid": "6729d769209ab5d2a55871e2"
+  },
+  "name": "diw",
+  "age": 19
+},
+{
+  "_id": {
+    "$oid": "6729d769209ab5d2a55871e3"
+  },
+  "name": "kla",
+  "age": 20
+},
+{
+  "_id": {
+    "$oid": "6729d769209ab5d2a55871e4"
+  },
+  "name": "got",
+  "age": 23
+},
+{
+  "_id": {
+    "$oid": "6729da3e209ab5d2a55871e5"
+  },
+  "name": "kong",
+  "age": 30,
+  "email": "kong@gmail.com",
+  "social": [
+    "facebook",
+    "line"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6729da79bef49d198bb16f51"
+  },
+  "name": "JoJoly",
+  "age": 25,
+  "email": "jojoly@gmail.com",
+  "social": [
+    "facebook",
+    "instagram",
+    "line"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6729dc51209ab5d2a55871e6"
+  },
+  "name": "frank",
+  "age": 30,
+  "email": "frank@gmail.com",
+  "general": {
+    "weight": 60,
+    "height": 170,
+    "gender": "man"
+  }
+}]
